@@ -52,4 +52,3 @@ Connected Two VM's To configure Active Directory and Verify Ping.
 </p>
 <p>
 </p>
-<br />
